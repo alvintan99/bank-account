@@ -4,7 +4,7 @@ A banking console application using SOLID principles, Clean Architecture, Domain
 
 To run the application in command prompt:
 ```
-dotnet run --project AwesomeGICBank.Console
+dotnet run --project AwesomeGICBank.ConsoleApp
 ```
 
 ## Table of Contents
