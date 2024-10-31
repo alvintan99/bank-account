@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeGICBank.Tests", "AwesomeGICBank.Tests\AwesomeGICBank.Tests.csproj", "{7836A6C6-56AF-4C4D-9999-5EBC498934B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeGICBank.Domain", "AwesomeGICBank.Domain\AwesomeGICBank.Domain.csproj", "{7123F73D-C880-4E1A-A667-B65862DFD022}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeGICBank.Application", "AwesomeGICBank.Application\AwesomeGICBank.Application.csproj", "{3D365BC0-8426-4489-BDA9-0E1E09B66F77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeGICBank.Infrastructure", "AwesomeGICBank.Infrastructure\AwesomeGICBank.Infrastructure.csproj", "{ADD5F833-4386-41C7-80A4-C9E5F2D88061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeGICBank.ConsoleApp", "AwesomeGICBank.ConsoleApp\AwesomeGICBank.ConsoleApp.csproj", "{F109725E-9181-49F0-B328-6D83CD2ED0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7836A6C6-56AF-4C4D-9999-5EBC498934B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7836A6C6-56AF-4C4D-9999-5EBC498934B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7836A6C6-56AF-4C4D-9999-5EBC498934B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7836A6C6-56AF-4C4D-9999-5EBC498934B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7123F73D-C880-4E1A-A667-B65862DFD022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7123F73D-C880-4E1A-A667-B65862DFD022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7123F73D-C880-4E1A-A667-B65862DFD022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7123F73D-C880-4E1A-A667-B65862DFD022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D365BC0-8426-4489-BDA9-0E1E09B66F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D365BC0-8426-4489-BDA9-0E1E09B66F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D365BC0-8426-4489-BDA9-0E1E09B66F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D365BC0-8426-4489-BDA9-0E1E09B66F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD5F833-4386-41C7-80A4-C9E5F2D88061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD5F833-4386-41C7-80A4-C9E5F2D88061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD5F833-4386-41C7-80A4-C9E5F2D88061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD5F833-4386-41C7-80A4-C9E5F2D88061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F109725E-9181-49F0-B328-6D83CD2ED0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F109725E-9181-49F0-B328-6D83CD2ED0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F109725E-9181-49F0-B328-6D83CD2ED0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F109725E-9181-49F0-B328-6D83CD2ED0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

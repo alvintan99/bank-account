@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AwesomeGICBank.Application\AwesomeGICBank.Application.csproj" />
+    <ProjectReference Include="..\AwesomeGICBank.Infrastructure\AwesomeGICBank.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AwesomeGICBank.ConsoleApp</RootNamespace>
+    <AssemblyName>AwesomeGICBank.ConsoleApp</AssemblyName>
+  </PropertyGroup>
+
+</Project>
