@@ -30,8 +30,4 @@
     <ProjectReference Include="..\AwesomeGICBank.Infrastructure\AwesomeGICBank.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Infrastructure\" />
-  </ItemGroup>
-
 </Project>
